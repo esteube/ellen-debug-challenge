@@ -1,0 +1,53 @@
+body{
+background-image: url('cactus.jpg');
+	background-color:#FFFFFF;
+	color:#666666;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+#wrapper{width:80%;
+	min-width:960px;
+	margin:0px auto;
+	background-color: #FFFFFF;
+	box-shadow: 5px 5px 5px #000033;
+
+
+}
+
+header{
+	background-color:#000033;
+	color:#FFFFFF; 
+	background:url('cactus.jpg') no-repeat right top #000000;
+}
+
+nav{background-color:#90C7E3;
+	padding:5px 5px 5px 20px;
+	font-weight:bold;
+
+
+}
+main{
+	padding:1px 20px 20px 20px;
+
+
+
+}
+.aboutme {text-align: right}
+
+.ellenpic {text-align: left}
+
+
+h1{margin-bottom: 0; 
+	padding: 10px;
+	font-family: Georgia, "Times New Roman", serif;
+	
+
+}
+
+
+dt{color:#000033;
+
+}
+
+
+
